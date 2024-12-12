@@ -1,0 +1,12 @@
+@extends('layouts.frontend')
+@section('content')
+    @include('frontend-layouts.header')
+    @include('frontend-layouts.banner')
+    @include('frontend-layouts.search_form')
+    @include('frontend-layouts.top_deals')
+    @include('frontend-layouts.by_categories')
+    @include('frontend-layouts.topplaces')
+    @include('frontend-layouts.moreproperties')
+    @include('frontend-layouts.recent_news')
+    @include('frontend-layouts.footer')
+@endsection

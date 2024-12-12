@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="How-icons-02" transform="translate(0.000000, 3.000000)">
+            <ellipse id="Oval" fill="#4F6CD3" fill-rule="nonzero" opacity="0.200000003" cx="42.34" cy="38" rx="37.65" ry="37.88"></ellipse>
+            <path d="M74.2,25.48 C78.8133557,38.664367 75.7882315,53.3179826 66.3309258,63.5975717 C56.8736201,73.8771608 42.5224164,78.110691 29,74.61 C8.78085531,69.2721679 -3.28283211,48.5541447 2.055,28.335 C7.39283211,8.11585531 28.1108553,-3.94783211 48.33,1.39 C53.1206197,2.66478463 57.6106617,4.87751537 61.54,7.9" id="Path" stroke="#4F6CD3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Path" fill="#4F6CD3" fill-rule="nonzero" points="54 49.76 54 21.96 24.44 21.96 24.44 57.93 45.38 57.93"></polygon>
+            <polygon id="Path" fill="#28429E" fill-rule="nonzero" points="45.38 57.93 45.38 49.72 54 49.72"></polygon>
+            <line x1="33.83" y1="33.93" x2="48.32" y2="33.93" id="Path" stroke="#DFE6FF" stroke-width="0.71" stroke-linecap="round"></line>
+            <rect id="Rectangle" fill="#DFE6FF" fill-rule="nonzero" x="29.16" y="32.44" width="2.96" height="2.98" rx="0.38"></rect>
+            <line x1="33.83" y1="40.7" x2="48.32" y2="40.7" id="Path" stroke="#DFE6FF" stroke-width="0.71" stroke-linecap="round"></line>
+            <line x1="33.83" y1="47.25" x2="48.32" y2="47.25" id="Path" stroke="#DFE6FF" stroke-width="0.71" stroke-linecap="round"></line>
+            <rect id="Rectangle" fill="#DFE6FF" fill-rule="nonzero" x="29.16" y="45.76" width="2.96" height="2.98" rx="0.38"></rect>
+            <rect id="Rectangle" fill="#DFE6FF" fill-rule="nonzero" x="29.16" y="39.21" width="2.96" height="2.98" rx="0.38"></rect>
+            <polyline id="Path" stroke="#28429E" stroke-width="0.54" stroke-linecap="round" stroke-linejoin="round" points="30.4 33.93 31.14 34.68 32.68 32.82"></polyline>
+            <polyline id="Path" stroke="#28429E" stroke-width="0.54" stroke-linecap="round" stroke-linejoin="round" points="30.4 40.64 31.14 41.38 32.68 39.53"></polyline>
+            <ellipse id="Oval" fill="#28429E" fill-rule="nonzero" cx="55.84" cy="22.06" rx="9.9" ry="9.96"></ellipse>
+            <ellipse id="Oval" fill="#DFE6FF" fill-rule="nonzero" cx="55.56" cy="19.72" rx="2.44" ry="2.45"></ellipse>
+            <path d="M60.07,26.84 C60.07,24.5038355 58.1761645,22.61 55.84,22.61 C53.5038355,22.61 51.61,24.5038355 51.61,26.84" id="Path" fill="#DFE6FF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

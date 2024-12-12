@@ -1,0 +1,17 @@
+{
+    "name": "Shellter Plug Real Estate Hub",
+    "short_name": "Shelter Plug",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "Shellter Plug",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
